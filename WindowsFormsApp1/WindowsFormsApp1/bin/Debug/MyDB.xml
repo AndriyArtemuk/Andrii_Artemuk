@@ -1,0 +1,57 @@
+<?xml version="1.0" standalone="yes"?>
+<NewDataSet>
+  <xs:schema id="NewDataSet" xmlns="" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:msdata="urn:schemas-microsoft-com:xml-msdata">
+    <xs:element name="NewDataSet" msdata:IsDataSet="true" msdata:MainDataTable="Animals" msdata:UseCurrentLocale="true">
+      <xs:complexType>
+        <xs:choice minOccurs="0" maxOccurs="unbounded">
+          <xs:element name="Animals">
+            <xs:complexType>
+              <xs:sequence>
+                <xs:element name="idAnimals" type="xs:int" />
+                <xs:element name="name" minOccurs="0">
+                  <xs:simpleType>
+                    <xs:restriction base="xs:string">
+                      <xs:maxLength value="45" />
+                    </xs:restriction>
+                  </xs:simpleType>
+                </xs:element>
+                <xs:element name="region" type="xs:int" minOccurs="0" />
+                <xs:element name="Vaga" type="xs:decimal" minOccurs="0" />
+                <xs:element name="intzavd" type="xs:dateTime" minOccurs="0" />
+                <xs:element name="Size" type="xs:int" minOccurs="0" />
+              </xs:sequence>
+            </xs:complexType>
+          </xs:element>
+        </xs:choice>
+      </xs:complexType>
+      <xs:unique name="Constraint1" msdata:PrimaryKey="true">
+        <xs:selector xpath=".//Animals" />
+        <xs:field xpath="idAnimals" />
+      </xs:unique>
+    </xs:element>
+  </xs:schema>
+  <Animals>
+    <idAnimals>1</idAnimals>
+    <name>корова</name>
+    <region>1</region>
+    <Vaga>500.00</Vaga>
+    <intzavd>2020-12-04T00:00:00+03:00</intzavd>
+    <Size>3</Size>
+  </Animals>
+  <Animals>
+    <idAnimals>2</idAnimals>
+    <name>свиня</name>
+    <region>1</region>
+    <Vaga>300.00</Vaga>
+    <intzavd>1985-11-25T00:00:00+03:00</intzavd>
+    <Size>2</Size>
+  </Animals>
+  <Animals>
+    <idAnimals>3</idAnimals>
+    <name>курка</name>
+    <region>3</region>
+    <Vaga>3.00</Vaga>
+    <intzavd>1989-10-12T00:00:00+04:00</intzavd>
+    <Size>0</Size>
+  </Animals>
+</NewDataSet>

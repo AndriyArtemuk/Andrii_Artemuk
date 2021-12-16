@@ -1,0 +1,46 @@
+C:\Users\User\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\User\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\User\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.About.resources
+C:\Users\User\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\User\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\User\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\User\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\User\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\User\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Calc1.resources
+C:\Users\User\source\repos\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\MySql.Data.dll
+C:\Users\User\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\User\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LogIn.resources
+C:\Users\User\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.myBD.resources
+C:\Users\User\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\User\source\repos\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.t1Agrobiologia.resources
+C:\Users\andri\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\andri\Desktop\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\andri\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
+C:\Users\andri\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.About.resources
+C:\Users\andri\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Calc1.resources
+C:\Users\andri\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LogIn.resources
+C:\Users\andri\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.myBD.resources
+C:\Users\andri\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\andri\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.t1Agrobiologia.resources
+C:\Users\andri\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\andri\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\andri\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\andri\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\andri\Desktop\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\andri\Desktop\2 курс\ОБДз\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+C:\Users\andri\Desktop\2 курс\ОБДз\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+C:\Users\andri\Desktop\2 курс\ОБДз\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.About.resources
+C:\Users\andri\Desktop\2 курс\ОБДз\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Calc1.resources
+C:\Users\andri\Desktop\2 курс\ОБДз\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.LogIn.resources
+C:\Users\andri\Desktop\2 курс\ОБДз\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.myBD.resources
+C:\Users\andri\Desktop\2 курс\ОБДз\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+C:\Users\andri\Desktop\2 курс\ОБДз\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.t1Agrobiologia.resources
+C:\Users\andri\Desktop\2 курс\ОБДз\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+C:\Users\andri\Desktop\2 курс\ОБДз\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+C:\Users\andri\Desktop\2 курс\ОБДз\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CopyComplete
+C:\Users\andri\Desktop\2 курс\ОБДз\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+C:\Users\andri\Desktop\2 курс\ОБДз\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb
+C:\Users\andri\Desktop\2 курс\ОБДз\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Table1_delete.resources
+C:\Users\andri\Desktop\2 курс\ОБДз\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Table1_Insert.resources
+C:\Users\andri\Desktop\2 курс\ОБДз\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Editing.resources
+C:\Users\andri\Desktop\2 курс\ОБДз\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csprojAssemblyReference.cache
